@@ -1,0 +1,21 @@
+form{
+    padding: 30px 20px;
+    background-color: cadetblue;
+border: 3px solid rgb(91, 25, 108);
+border-radius: 8px;
+width: 400px;
+display: block;
+}
+label{
+display: block;
+margin-bottom: 15px;
+}
+button{
+padding: 10px 20px;
+background-color: rgb(62, 125, 167);
+border: none;
+border-radius: 8px;
+}
+button:hover{
+background-color: darkmagenta;
+}
